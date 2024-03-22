@@ -25,3 +25,8 @@ go.work
 
 # Exclude bin/ directories
 bin/
+
+data/
+tmp/
+
+.DS_store
