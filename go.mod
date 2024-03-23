@@ -1,4 +1,4 @@
-module github.com/mrofisr/osv-scanner-github-actions
+module github.com/mrofisr/files-server
 
 go 1.22.1
 
